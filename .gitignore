@@ -1,4 +1,5 @@
 test/
+!runs/detect/train5/
 train/
 valid/
 runs/detect/
