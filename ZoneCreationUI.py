@@ -14,7 +14,7 @@ temp_shape = None
 tool_buttons = {}
 
 # === Extract First Frame from Video ===
-VIDEO_PATH = "videos/second_run_right 1.mp4"
+VIDEO_PATH = "videos/_2025-05-28_15_29_37_583 (online-video-cutter.com).mp4"
 cap = cv2.VideoCapture(VIDEO_PATH)
 ret, frame = cap.read()
 cap.release()
